@@ -61,30 +61,31 @@ Specific descriptions of the codes can be found in the corresponding documents.
 "Spatial Transcriptional Landscape of Osteosarcoma and Metastatic Lymph Nodes.R" was used to construct Overall landscape of spatial transcriptomics for 8 samples.
 
 ### 3.Identification and Subtype Analysis of Malignant Osteosarcoma Cells
-"1_Extracellular matrix scoring.txt" was used to score extracellular matrix remodeling for subclusters of cells between samples.
 
-"2_M1M2score.txt" was used to assess the M1/M2 polarization phenotype of myeloid cell subpopulations by scores.
+"clusterGIVs_code.R" was used to analyze the functions of tumor cell subpopulations.
 
-"3_scFEA.txt" was used for the analysis of cellular metabolic reprogramming.
+"CNV_code.R" was used to analyze the copy number variations in osteoblasts.
 
-"4_Prognostic analysis.txt" was used for prognostic analysis of cell subpopulations in the joint the TCGA database.
+"GSVA_code.R" was used to analyze the functions of tumor cell subpopulations.
+
+"Score_code.R" was used to evaluate the enrichment scores of tumor cell subpopulations across different gene sets.
 
 ### 4. NPW(+) Osteosarcoma Cells Promote Lung via Metastasis Macrophages Recruitment 
-"1_SCENIC.txt" was used to analyze the expression levels of transcription factors in cellular subclusters among different sample groups.
 
-"2_monocle3.txt" was used to characterize the developmental trajectory of B cells.
+"Gene_expression.R" was used to analyze the expression of specific genes in tumor cell subpopulations.
 
-"3_Gene_Trajectory.txt" was used to analyze gene trajectory activity in B cells.
+"SpatialFeaturePlot.R" was used to analyze the spatial localization of genes.
 
-"4_cellphoneDB.txt" was used to analyze ligand-receptor pairs between different cell types.
+"stLearn_code.py" was used to analyze ligand-receptor pairs in spatial contexts.
+
+"TESLA_code.py" was used to analyze the spatial localization of genes.
 
 ### 5. ZMYND8 Promote Lymph Node Metastasis Through Metabolic Reprogramming
-"1_OR.txt" was used to show the dominance ratio of cell subpopulation distribution in each tissue.
-
-"2_GSVA.txt" was used to explore enrichment pathways in cellular subclusters.
+“scFEA_code.R” was used to analyze metabolic pathway activity in tumor cell subpopulations
+“scMetabolism_Code.R” was used to analyze metabolic pathway activity of tumor cell subsets
+“SEDR_Code.py” was used to analyze the spatial distribution of expression of specific genes.
 ### 6. SLPI(+) Tumor Cells Inhibit the Function of NK Cell and Promote Survival In Lymph Nodes.
-"TESLA.txt" was used to verify the presence of specific cells in the spatial transcriptome.
-
+“CIBERSORT_code.R” was used to estimate the abundance of immune cells in the sample.
 
 ### 7  Senescent Fibroblasts Promote Tumor Progression
 “1_Analysis of fibroblasts.R” was used for the annotation of fibroblasts and the expression of CDKN2A in each subpopulation.
