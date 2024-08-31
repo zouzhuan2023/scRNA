@@ -13,15 +13,15 @@ The following are the version numbers of the software or algorithms used in this
 
 	AUCell 1.12.0
 	GSVA 1.38.2
-        SEDR  1.0.0
+	SEDR  1.0.0
 	spacexr 2.2.1
-        CellChat 1.6.1
-        TESLA  1.2.4
-        stlearn 0.4.12
+	CellChat 1.6.1
+	TESLA  1.2.4
+	stlearn 0.4.12
 	Seurat 4.3.0.1
 	scFEA 1.1
 	scanpy 1.10.1
-        stlearn 0.4.12
+	stlearn 0.4.12
 	monocle3 1.3.1
 	Python 3.9
  	Ubuntu 18.04
