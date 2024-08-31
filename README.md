@@ -81,18 +81,26 @@ Specific descriptions of the codes can be found in the corresponding documents.
 "TESLA_code.py" was used to analyze the spatial localization of genes.
 
 ### 5. ZMYND8 Promote Lymph Node Metastasis Through Metabolic Reprogramming
-“scFEA_code.R” was used to analyze metabolic pathway activity in tumor cell subpopulations
-“scMetabolism_Code.R” was used to analyze metabolic pathway activity of tumor cell subsets
+“scFEA_code.R” was used to analyze metabolic pathway activity in tumor cell subpopulations.
+
+“scMetabolism_Code.R” was used to analyze metabolic pathway activity of tumor cell subsets.
+
 “SEDR_Code.py” was used to analyze the spatial distribution of expression of specific genes.
+
 ### 6. SLPI(+) Tumor Cells Inhibit the Function of NK Cell and Promote Survival In Lymph Nodes.
 “CIBERSORT_code.R” was used to estimate the abundance of immune cells in the sample.
 
 ### 7  Senescent Fibroblasts Promote Tumor Progression
 “1_Analysis of fibroblasts.R” was used for the annotation of fibroblasts and the expression of CDKN2A in each subpopulation.
+
 “2_Definition of senescent fibroblasts.R” was used for defining senescent fibroblasts.
+
 “3_Aging gene set score.R” was used for scoring of 21 Senescence-Associated Genes in senCAF and nonsenCAF.
+
 “4_CellChat.R” was used for the analysis of intercellular communication between senCAF Cells and tumor cell subgroups.
+
 “5_SEDR.py” was used for predicting the spatial localization of CDKN1A, IBSP, and CDKN2A.
+
 “6_Colocalization of the CDKN1A with fibroblasts.R” was used for the analysis of spatial localization of fibroblasts and the CDKN1A.
 
 ## Dataset
@@ -101,4 +109,4 @@ The raw data from 28 single-cell and 8 spatial transcriptomics sequencing sample
 ## Contact
 If you have any questions or feedback, feel free to contact me at zouzhuan@sr.gxmu.edu.cn.
 # scRNA
-Single-cell and spatial transcriptomic analyses reveals the metastasis mechanisms of osteosarcoma
+Single-cell and spatial transcriptomic analyses reveals the metastasis mechanisms of osteosarcoma.
