@@ -96,8 +96,7 @@ Specific descriptions of the codes can be found in the corresponding documents.
 “6_Colocalization of the CDKN1A with fibroblasts.R” was used for the analysis of spatial localization of fibroblasts and the CDKN1A.
 
 ## Dataset
-The dataset for this study is maintained in the [_zenodo_](https://zenodo.org/) database under the registration number: [_11577432_](https://zenodo.org/records/11577432). 
-The dataset includes processed single-cell sequencing data from 25 types of solid tumors and 3 normal tissues.
+The raw data from 28 single-cell and 8 spatial transcriptomics sequencing samples have been uploaded to the National Genomics Data Centerand the Gene Expression Omnibus (GEO) database (HRA007229, HRA008101,GSE162454).
 
 ## Contact
 If you have any questions or feedback, feel free to contact me at zouzhuan@sr.gxmu.edu.cn.
